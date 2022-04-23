@@ -10,6 +10,9 @@ namespace _1_PrimeiroProjeto
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello world!");
+
+            Console.ReadLine();
         }
     }
 }
